@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="u`0_Hj6Lx}*`1Th)$iw5" x="0" y="0"></block><block type="device_forever" id="7^~b$d6(H[aSI~:Z`:K`" x="205" y="0"></block><block type="device_pin_event" id="%=Vx^M:0x+E.!8b,;TTL" x="399" y="150"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="-y/Gvax$=(,?Dy/EQ8$v"><field name="LEDS">`
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        # # # . .
+        `</field></block></statement></block><block type="device_pin_event" id="A2_yGk!gKGcC(BzjOI_d" x="667" y="147"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="device_show_leds" id="7#23RT1UNe:WITcHi)k6"><field name="LEDS">`
+        . . # # # 
+        . . # # # 
+        . . # # # 
+        . . # # # 
+        . . # # #
+        `</field></block></statement></block><block type="device_pin_event" id="j-h9xsk4)`4E+^z=5EBp" x="85" y="265"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="device_show_number" id="~TcJ7eFTqw6aLcSzcR7-"><value name="number"><shadow type="math_number" id="CTN,z/(,H8K%WxM,/`yO"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id="O7B-96Kxb+HU~,4grZj."><value name="number"><shadow type="math_number" id="*XfHS.U07!=`Oiyl;a2R"><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="~3GQ8V^9!]qH.kGj9?NJ"><value name="number"><shadow type="math_number" id="dPj7RCD5]~MP~L,`3F~n"><field name="NUM">1</field></shadow></value><next><block type="device_print_message" id="VY4gu-X!7eqTEjS!OO*;"><value name="text"><shadow type="text" id="Y+lLx+MQ6rr9]+mCp?gk"><field name="TEXT">Prepare-se!</field></shadow></value><next><block type="device_pause" id="8501:M)mJqf|K9;-zeSR"><value name="pause"><shadow type="timePicker"><field name="ms">100</field></shadow><block type="device_random" id="MI:[T[UL*,,x-=72~$m9"><value name="min"><shadow type="math_number" id="({n+AP|WOFyP^6,~R{^:"><field name="NUM">1000</field></shadow></value><value name="limit"><shadow type="math_number" id="ySiHFsBhsn,]k/.Ki~j}"><field name="NUM">5000</field></shadow></value></block></value><next><block type="basic_show_icon" id="K.82/EV2yS{b#g-2;zNO"><field name="i">IconNames.Giraffe</field><next><block type="device_pause" id="8aIAqT,DTTwPdB3;+m.w"><value name="pause"><shadow type="timePicker" id="/j5gt2FEbq.9Q67aC2qz"><field name="ms">1000</field></shadow></value><next><block type="device_clear_display" id="h@r3zHV{-pDSBlzBwVwu"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
